@@ -53,13 +53,23 @@ class PokeGUI():
         self.route_button.grid(row=0, column=0)
         self.clear_button = tk.Button(
             self.root, text='Clear', command=self.reset_gui)
-        self.clear_button.grid(row=1, column=0)
+        self.clear_button.grid(row=0, column=1)
 
-        self.text = ScrolledText(self.root, wrap=tk.WORD, width=40)
-        self.text.grid(row=2, column=0, padx=10, pady=10)
+        self.opacity_slider = tk.Scale(
+            self.root, label="Opacity", from_=20, to_=100, orient=tk.HORIZONTAL, command=self.update_opacity)
+        self.opacity_slider.grid(row=0, column=2)
+        self.opacity_slider.set(70)
+        self.text = ScrolledText(
+            self.root, wrap=tk.WORD, width=40, )
+        self.text.grid(row=3, column=0, columnspan=5,
+                       sticky=tk.W+tk.E, padx=10, pady=10)
 
         self.text.pokemon = []
         self.text.images = []
+
+    def update_opacity(self, value):
+        # Set the transparency of the window
+        self.root.attributes("-alpha", int(value) / 100)
 
     def reset_gui(self):
         self.text.delete('1.0', tk.END)
