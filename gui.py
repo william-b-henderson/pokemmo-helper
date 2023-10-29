@@ -104,7 +104,7 @@ class PokeGUI():
                 # Load image using PIL
                 image_path = f"sprites/{pokemon['pokemon_name'].lower()}.png"
                 try:
-                    img = Image.open(image_path).resize((64, 64))
+                    img = Image.open(image_path).resize((32, 32))
                     img = ImageTk.PhotoImage(img)
                     self.text.image_create(tk.INSERT, image=img)
                     self.text.images.append(img)
