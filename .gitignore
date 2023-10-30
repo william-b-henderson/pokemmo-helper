@@ -2,6 +2,11 @@ inverted_screenshot.png
 screenshot.png
 
 
+# Untracked files
+auction_scraper.py
+database_manager.py
+pokemon_db.db
+hoenn_raw_route_data.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

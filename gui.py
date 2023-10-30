@@ -22,7 +22,7 @@ pokemon_data = {
 class PokeGUI():
 
     def __init__(self) -> None:
-        with open("route_data.json", 'r') as f:
+        with open("hoenn_route_data.json", 'r') as f:
             self.data = json.load(f)
         self.route_name = None
         self.pokemon_data = None
@@ -77,7 +77,7 @@ class PokeGUI():
         self.text.images.clear()
 
     def get_route(self):
-        text = get_text()
+        text, _, _ = get_text()
         self.route_name = find_closest_word(search_string=text, data=self.data)
         self.pokemon_data = self.data[self.route_name]
         self.generate_pokemon_list()

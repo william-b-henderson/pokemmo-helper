@@ -1,0 +1,5428 @@
+{
+    "Littleroot Town": {},
+    "Route 101": {
+        "Grass": [
+            {
+                "pokemon_name": "Poochyena",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Wurmple",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry, Bright Powder"
+            }
+        ],
+        "Lure in Grass": []
+    },
+    "Oldale Town": {},
+    "Route 103": {
+        "Grass": [
+            {
+                "pokemon_name": "Poochyena",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Damp Rock, Pretty Wing"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Surf",
+                "horde": true,
+                "time": "Very Common",
+                "items": false
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Route 102": {
+        "Grass": [
+            {
+                "pokemon_name": "Poochyena",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Wurmple",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry, Bright Powder"
+            },
+            {
+                "pokemon_name": "Lotad",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Seedot",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Ralts",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Dawn Stone, Destiny Knot"
+            },
+            {
+                "pokemon_name": "Surskit",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Honey"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Marill",
+                "rarity": "Surf",
+                "horde": true,
+                "time": "Very Common",
+                "items": false
+            },
+            {
+                "pokemon_name": "Azumarill",
+                "rarity": "Surf",
+                "horde": false,
+                "time": "Common",
+                "items": false
+            },
+            {
+                "pokemon_name": "Lotad",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Lombre",
+                "rarity": "Surf",
+                "horde": false,
+                "time": "Night",
+                "items": false
+            },
+            {
+                "pokemon_name": "Surskit",
+                "rarity": "Surf",
+                "horde": false,
+                "time": "Uncommon",
+                "items": false
+            },
+            {
+                "pokemon_name": "Masquerain",
+                "rarity": "Surf",
+                "horde": false,
+                "time": "Rare",
+                "items": false
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Corphish",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Corphish",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Petalburg City": {
+        "Water": [
+            {
+                "pokemon_name": "Marill",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Azumarill",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lotad",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Lombre",
+                "rarity": "Rare",
+                "horde": false,
+                "time": "Night",
+                "items": false
+            },
+            {
+                "pokemon_name": "Surskit",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Honey"
+            },
+            {
+                "pokemon_name": "Masquerain",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Silver Powder"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Corphish",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Corphish",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Route 104": {
+        "Grass": [
+            {
+                "pokemon_name": "Marill",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Poochyena",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Wurmple",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry, Bright Powder"
+            },
+            {
+                "pokemon_name": "Taillow",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Charti Berry"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Petalburg Woods": {
+        "Grass": [
+            {
+                "pokemon_name": "Poochyena",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Taillow",
+                "rarity": "Rare",
+                "horde": false,
+                "time": "Morning/Day",
+                "items": false
+            },
+            {
+                "pokemon_name": "Wurmple",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry, Bright Powder"
+            },
+            {
+                "pokemon_name": "Silcoon",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Cascoon",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Shroomish",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Tiny Mushroom, Big Mushroom, Kebia Berry, Balm Mushroom"
+            },
+            {
+                "pokemon_name": "Slakoth",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": []
+    },
+    "Rustboro City": {},
+    "Route 116": {
+        "Grass": [
+            {
+                "pokemon_name": "abra",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "TwistedSpoon"
+            },
+            {
+                "pokemon_name": "Poochyena",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Taillow",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Charti Berry"
+            },
+            {
+                "pokemon_name": "Nincada",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Soft Sand"
+            },
+            {
+                "pokemon_name": "Whismur",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Chesto Berry"
+            },
+            {
+                "pokemon_name": "Skitty",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            }
+        ],
+        "Lure in Grass": []
+    },
+    "Rusturf Tunnel": {
+        "Cave": [
+            {
+                "pokemon_name": "Whismur",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Chesto Berry"
+            }
+        ],
+        "Lure in Cave": []
+    },
+    "Dewford Town": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Route 106": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, and Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Granite Cave": {
+        "Cave": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "abra",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "TwistedSpoon"
+            },
+            {
+                "pokemon_name": "Geodude",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Everstone, Hard Stone"
+            },
+            {
+                "pokemon_name": "Makuhita",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Black Belt"
+            },
+            {
+                "pokemon_name": "Sableye",
+                "rarity": "Rare,",
+                "horde": true,
+                "time": false,
+                "items": "Wide Lens"
+            },
+            {
+                "pokemon_name": "Mawile",
+                "rarity": "Rare,",
+                "horde": true,
+                "time": false,
+                "items": "Iron Ball, Occa Berry"
+            },
+            {
+                "pokemon_name": "Aron",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Hard Stone"
+            }
+        ],
+        "Rocks": [
+            {
+                "pokemon_name": "Geodude",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Everstone, Hard Rock"
+            },
+            {
+                "pokemon_name": "nosepass",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Hard Stone, Magnet, Float Stone"
+            }
+        ],
+        "Lure in Cave": []
+    },
+    "Route 109": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common, Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Uncommon, Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Cave": []
+    },
+    "Slateport City": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Altering Cave": {},
+    "Reveal hidden contents": {},
+    "Route 110": {
+        "Grass": [
+            {
+                "pokemon_name": "Oddish",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Absorb Bulb"
+            },
+            {
+                "pokemon_name": "Magnemite",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Metal Coat, Magnet"
+            },
+            {
+                "pokemon_name": "Voltorb",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Poochyena",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Electrike",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Plusle",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Cell Battery"
+            },
+            {
+                "pokemon_name": "Minun",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Cell Battery"
+            },
+            {
+                "pokemon_name": "Gulplin",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Big Pearl, Oran Berry"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Mauville City": {},
+    "Route 111": {
+        "Grass (Sand)": [
+            {
+                "pokemon_name": "Sandshrew",
+                "rarity": "Very Common,",
+                "horde": true,
+                "time": false,
+                "items": "Grip Claw, Quick Claw"
+            },
+            {
+                "pokemon_name": "Trapinch",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Soft Sand"
+            },
+            {
+                "pokemon_name": "Cacnea",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Sticky Barb, Poison Barb"
+            },
+            {
+                "pokemon_name": "Baltoy",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Light Clay"
+            }
+        ],
+        "Rocks": [
+            {
+                "pokemon_name": "Geodude",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Everstone, Hard Stone"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Marill",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Azumarill",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lotad",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Metal Herb"
+            },
+            {
+                "pokemon_name": "Surskit",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Honey"
+            },
+            {
+                "pokemon_name": "Masquerain",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Silver Powder"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Mirage Tower": {
+        "Grass (Sand)": [
+            {
+                "pokemon_name": "Sandshrew",
+                "rarity": "Very Common,",
+                "horde": true,
+                "time": false,
+                "items": "Grip Claw, Quick Claw"
+            },
+            {
+                "pokemon_name": "Trapinch",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Soft Sand"
+            },
+            {
+                "pokemon_name": "Cacnea",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Sticky Barb, Poison Barb"
+            },
+            {
+                "pokemon_name": "Baltoy",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Light Clay"
+            }
+        ],
+        "Lure in Building": []
+    },
+    "Route 112": {
+        "Grass (Sand)": [
+            {
+                "pokemon_name": "Machop",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Focus Band"
+            },
+            {
+                "pokemon_name": "Marill",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Numel",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Rawst Berry"
+            }
+        ],
+        "Lure in Grass": []
+    },
+    "Fiery Path": {
+        "Cave": [
+            {
+                "pokemon_name": "Machop",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Focus Band"
+            },
+            {
+                "pokemon_name": "Grimer",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Black Sludge, Nugget"
+            },
+            {
+                "pokemon_name": "Koffing",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Smoke Ball"
+            },
+            {
+                "pokemon_name": "Slugma",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Numel",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Rawst Berry"
+            },
+            {
+                "pokemon_name": "Torkoal",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Charcoal, Heat Rock"
+            }
+        ],
+        "Lure in Cave": []
+    },
+    "Route 113": {
+        "Grass": [
+            {
+                "pokemon_name": "Sandshrew",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Grip Claw, Quick Claw"
+            },
+            {
+                "pokemon_name": "Slugma",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Skarmory",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Metal Coat, Sharp Beak"
+            },
+            {
+                "pokemon_name": "Spinda",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Chesto Berry"
+            }
+        ],
+        "Lure in Grass": []
+    },
+    "Fallarbor Town": {},
+    "Route 114": {
+        "Grass": [
+            {
+                "pokemon_name": "Lotad",
+                "rarity": "Common,",
+                "horde": true,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Lombre",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Seedot",
+                "rarity": "Uncommon,",
+                "horde": true,
+                "time": false,
+                "items": "Power Herb"
+            },
+            {
+                "pokemon_name": "Nuzleaf",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Power Herb"
+            },
+            {
+                "pokemon_name": "Surskit",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Honey"
+            },
+            {
+                "pokemon_name": "Swablu",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Zangoose",
+                "rarity": "Uncommon,",
+                "horde": true,
+                "time": false,
+                "items": "Quick Claw, Razor Claw"
+            },
+            {
+                "pokemon_name": "Seviper",
+                "rarity": "Common,",
+                "horde": true,
+                "time": false,
+                "items": "Shed Shell, Razor Fang, Persim Berry"
+            }
+        ],
+        "Rocks": [
+            {
+                "pokemon_name": "Geodude",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Everstone, Hard Stone"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Marill",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Azumarill",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lotad",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Lombre",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Surskit",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Honey"
+            },
+            {
+                "pokemon_name": "Masquerain",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Silver Powder"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Meteor Falls": {
+        "Cave": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lunatone",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Moon Stone, Stardust, Comet Shard"
+            },
+            {
+                "pokemon_name": "Solrock",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Sun Stone, Stardust, Comet Shard"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lunatone",
+                "rarity": "Common,",
+                "horde": true,
+                "time": false,
+                "items": "Moon Stone, Stardust, Comet Shard"
+            },
+            {
+                "pokemon_name": "Solrock",
+                "rarity": "Common,",
+                "horde": true,
+                "time": false,
+                "items": "Sun Stone, Stardust, Comet Shard"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Whiscash",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Cave": [],
+        "Lure in Water": []
+    },
+    "Meteor Falls 1st Floor": {
+        "Cave": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lunatone",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Moon Stone, Stardust, Comet Shard"
+            },
+            {
+                "pokemon_name": "Solrock",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Sun Stone, Stardust, Comet Shard"
+            }
+        ],
+        "Lure in Cave": [],
+        "Lure in Water": []
+    },
+    "Meteor Falls (Steven's Room)": {
+        "Cave": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lunatone",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Moon Stone, Stardust, Comet Shard"
+            },
+            {
+                "pokemon_name": "Solrock",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Sun Stone, Stardust, Comet Shard"
+            },
+            {
+                "pokemon_name": "Beldum",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Metal Coat"
+            }
+        ],
+        "Lure in Cave": [],
+        "Lure in Water": []
+    },
+    "Meteor Falls (Side Room with TM": {
+        "Cave": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lunatone",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Moon Stone, Stardust, Comet Shard"
+            },
+            {
+                "pokemon_name": "Solrock",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Sun Stone, Stardust, Comet Shard"
+            },
+            {
+                "pokemon_name": "Bagon",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Dragon Scale, Dragon Fang"
+            },
+            {
+                "pokemon_name": "Beldum",
+                "rarity": "Very Rare",
+                "horde": false,
+                "time": false,
+                "items": "Metal Coat"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lunatone",
+                "rarity": "Common,",
+                "horde": true,
+                "time": false,
+                "items": "Moon Stone, Stardust, Comet Shard"
+            },
+            {
+                "pokemon_name": "Solrock",
+                "rarity": "Common,",
+                "horde": true,
+                "time": false,
+                "items": "Sun Stone, Stardust, Comet Shard"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Whiscash",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Cave": [],
+        "Lure in Water": []
+    },
+    "Route 115": {
+        "Grass": [
+            {
+                "pokemon_name": "Jigglypuff",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Moon Stone"
+            },
+            {
+                "pokemon_name": "Taillow",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Charti Berry"
+            },
+            {
+                "pokemon_name": "Swellow",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Charti Berry"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Swablu",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Rocks": [
+            {
+                "pokemon_name": "Geodude",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Everstone, Hard Stone"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Rock, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Mt. Chimney": {},
+    "Jagged Pass": {
+        "Grass": [
+            {
+                "pokemon_name": "Machop",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Focus Band"
+            },
+            {
+                "pokemon_name": "Numel",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Rawst Berry"
+            },
+            {
+                "pokemon_name": "Spoink",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Persim Berry, Tanga Berry"
+            }
+        ],
+        "Lure in Grass": []
+    },
+    "Lavaridge Town": {},
+    "Route 117": {
+        "Grass": [
+            {
+                "pokemon_name": "Oddish",
+                "rarity": "Uncommon,",
+                "horde": true,
+                "time": false,
+                "items": "Absorb Bulb"
+            },
+            {
+                "pokemon_name": "Marill",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Poochyena",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Seedot",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Power Herb"
+            },
+            {
+                "pokemon_name": "Surskit",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Honey"
+            },
+            {
+                "pokemon_name": "Volbeat",
+                "rarity": "Uncommon,",
+                "horde": true,
+                "time": false,
+                "items": "Bright Powder"
+            },
+            {
+                "pokemon_name": "Illumise",
+                "rarity": "Uncommon,",
+                "horde": true,
+                "time": false,
+                "items": "Bright Powder"
+            },
+            {
+                "pokemon_name": "Roselia",
+                "rarity": "Common,",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb, Shiny Stone, Absorb Bulb"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Marill",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Azumarill",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lotad",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Lombre",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Surskit",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Honey"
+            },
+            {
+                "pokemon_name": "Masquerain",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Silver Powder"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Corphish",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Corphish",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Verdanturf Town": {},
+    "Route 105": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, and Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "New Mauville": {
+        "Cave": [
+            {
+                "pokemon_name": "Magnemite",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Mental Coat, Magnet"
+            },
+            {
+                "pokemon_name": "Voltorb",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Building": []
+    },
+    "Route 118": {
+        "Grass": [
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Linoone",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            },
+            {
+                "pokemon_name": "Manectric",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Kecleon",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Carvanha",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Carvanha",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Route 119": {
+        "Interaction": [
+            {
+                "pokemon_name": "Kecleon",
+                "rarity": "Only One",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Grass": [
+            {
+                "pokemon_name": "Oddish",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Absorb Bulb"
+            },
+            {
+                "pokemon_name": "Gloom",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Absorb Bulb"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Linoone",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Kecleon",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Tropius",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Carvanha",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Carvanha",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Feebas",
+                "rarity": "Special Water Tile",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Fortree City": {
+        "Interaction": [
+            {
+                "pokemon_name": "Kecleon",
+                "rarity": "Only One",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ]
+    },
+    "Route 120": {
+        "Interaction": [
+            {
+                "pokemon_name": "Kecleon",
+                "rarity": "Only Four",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Grass": [
+            {
+                "pokemon_name": "Oddish",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Absorb Bulb"
+            },
+            {
+                "pokemon_name": "Gloom",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Absorb Bulb"
+            },
+            {
+                "pokemon_name": "Marill",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Poochyena",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Mightyena",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Linoone",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Oran Berry, Potion, Super Potion"
+            },
+            {
+                "pokemon_name": "Seedot",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Power Herb"
+            },
+            {
+                "pokemon_name": "Kecleon",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Tropius",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Absol",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Life Orb"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Marill",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Azumarill",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lotad",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Lombre",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Surskit",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Honey"
+            },
+            {
+                "pokemon_name": "Masquerain",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Silver Powder"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Scorched Slab": {
+        "Cave": [
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Cave": [],
+        "Lure in Water": []
+    },
+    "Route 121": {
+        "Grass": [
+            {
+                "pokemon_name": "Oddish",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Absorb Bulb"
+            },
+            {
+                "pokemon_name": "Gloom",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Absorb Bulb"
+            },
+            {
+                "pokemon_name": "Poochyena",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Mightyena",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Potion, Oran Berry, Super Potion"
+            },
+            {
+                "pokemon_name": "Linoone",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Potion, Oran Berry, Super Potion"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            },
+            {
+                "pokemon_name": "Kecleon",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Shuppet",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Spell Tag"
+            },
+            {
+                "pokemon_name": "Duskull",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Reaper Cloth, Spell Tag, Kasib Berry"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Lilycove City": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Staryu",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Star Piece, Stardust"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Route 122": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Mt. Pyre": {
+        "Cave (Inside Tower)": [
+            {
+                "pokemon_name": "Shuppet",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Spell Tag"
+            },
+            {
+                "pokemon_name": "Duskull",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Reaper Cloth, Spell Tag, Kasib Berry"
+            }
+        ],
+        "Grass": [
+            {
+                "pokemon_name": "Vulpix",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Charcoal, Rawst Berry"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "meditite",
+                "rarity": "Very Common,",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Shuppet",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Spell Tag"
+            },
+            {
+                "pokemon_name": "Duskull",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Reaper Cloth, Spell Tag, Kasib Berry"
+            },
+            {
+                "pokemon_name": "Chimecho",
+                "rarity": "Very Rare",
+                "horde": false,
+                "time": false,
+                "items": "Cleanse Tag, Soothe Bell, Colbur Berry"
+            }
+        ],
+        "Lure in Grass": []
+    },
+    "Route 123": {
+        "Grass": [
+            {
+                "pokemon_name": "Oddish",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Absorb Bulb"
+            },
+            {
+                "pokemon_name": "Gloom",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Absorb Bulb"
+            },
+            {
+                "pokemon_name": "Poochyena",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Mightyena",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Pecha Berry"
+            },
+            {
+                "pokemon_name": "Zigzagoon",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Potion, Oran Berry, Super Potion"
+            },
+            {
+                "pokemon_name": "Linoone",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Potion, Oran Berry, Super Potion"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            },
+            {
+                "pokemon_name": "Kecleon",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Shuppet",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Spell Tag"
+            },
+            {
+                "pokemon_name": "Duskull",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Reaper Cloth, Spell Tag, Kasib Berry"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Marill",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Azumarill",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Lotad",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Mental Herb"
+            },
+            {
+                "pokemon_name": "Lombre",
+                "rarity": "Rare",
+                "horde": false,
+                "time": "Night",
+                "items": false
+            },
+            {
+                "pokemon_name": "Surskit",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Honey"
+            },
+            {
+                "pokemon_name": "Masquerain",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Silver Powder"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Corphish",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Corphish",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Crawdaunt",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "Magma Hideout": {
+        "Cave": [
+            {
+                "pokemon_name": "Geodude",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Everstone, Hard Stone"
+            },
+            {
+                "pokemon_name": "Graveler",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Everstone, Hard Stone"
+            },
+            {
+                "pokemon_name": "Torkoal",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Charcoal, Heat Rock"
+            }
+        ],
+        "Lure in Cave": []
+    },
+    "Aqua Hideout": {
+        "Interaction": [
+            {
+                "pokemon_name": "Electrode",
+                "rarity": "Only Two",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Posion Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common if level 15-30, Very Common if level 25",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common if level 15-30, Rare if level 25",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Staryu",
+                "rarity": "Uncommon if level 30-40, Rare if level 40",
+                "horde": false,
+                "time": false,
+                "items": "Star Piece, Stardust"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Route 124": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Mossdeep City": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Route 125": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Shoal Cave (Upper Floors)": {
+        "Cave": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Spheal",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Sealeo",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Spheal",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ]
+    },
+    "Shoal Cave (Basement Ice Floor)": {
+        "Cave": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Snorunt",
+                "rarity": "Rare",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Spheal",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Sealeo",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            }
+        ]
+    },
+    "Route 127": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Underwater": {
+        "Water (Underwater Seaweed)": [
+            {
+                "pokemon_name": "Chinchou",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Yellow Shard, DeepSeaScale"
+            },
+            {
+                "pokemon_name": "Lanturn",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Yellow Shard, DeepSeaScale"
+            },
+            {
+                "pokemon_name": "Corsola",
+                "rarity": "Rare",
+                "horde": true,
+                "time": false,
+                "items": "Red Shard, Hard Stone"
+            },
+            {
+                "pokemon_name": "Clamperl",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Blue Shard, Pearl, Big Pearl"
+            },
+            {
+                "pokemon_name": "Relicanth",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Green Shard, DeepSeaScale"
+            }
+        ],
+        "Lure in Underwater Seaweed": []
+    },
+    "Seafloor Cavern": {
+        "Cave": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Rocks": [
+            {
+                "pokemon_name": "Graveler",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Everstone, Hard Stone"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Cave": [],
+        "Lure in Water": []
+    },
+    "Route 128": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Luvdisc",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Heart Scale"
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Corsola",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Red Shard, Hard Stone"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Luvdisc",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Heart Scale"
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Route 126": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Very Common,",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Pacifidlog Town": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Sootopolis City": {
+        "Water": [
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Gyarados",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Ever Grande City (Bottom)": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Luvdisc",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Heart Scale"
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Corsola",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Red Shard, Hard Stone"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Luvdisc",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Heart Scale"
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Ever Grande City (Top)": {},
+    "Victory Road": {
+        "Cave": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Very Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Whismur",
+                "rarity": "Very Rare",
+                "horde": false,
+                "time": false,
+                "items": "Chesto Berry"
+            },
+            {
+                "pokemon_name": "Loudred",
+                "rarity": "Rare",
+                "horde": true,
+                "time": false,
+                "items": "Chesto Berry"
+            },
+            {
+                "pokemon_name": "Makuhita",
+                "rarity": "Very Rare",
+                "horde": false,
+                "time": false,
+                "items": "Black Belt"
+            },
+            {
+                "pokemon_name": "Hariyama",
+                "rarity": "Rare",
+                "horde": true,
+                "time": false,
+                "items": "King's Rock"
+            },
+            {
+                "pokemon_name": "Sableye",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Wide Lens"
+            },
+            {
+                "pokemon_name": "Mawile",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Iron Ball, Occa Berry"
+            },
+            {
+                "pokemon_name": "Aron",
+                "rarity": "Very Rare",
+                "horde": false,
+                "time": false,
+                "items": "Hard Stone"
+            },
+            {
+                "pokemon_name": "Lairon",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Hard Stone"
+            },
+            {
+                "pokemon_name": "meditite",
+                "rarity": "Very Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "medicham",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Rocks": [
+            {
+                "pokemon_name": "Graveler",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Everstone, Hard Stone"
+            },
+            {
+                "pokemon_name": "Golem",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Everstone, Hard Stone"
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Goldeen",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Mystic Water"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Barboach",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Whiscash",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Cave": []
+    },
+    "Desert Underpass": {
+        "Cave": [
+            {
+                "pokemon_name": "Ditto",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Quick Powder, Metal Powder"
+            },
+            {
+                "pokemon_name": "Whismur",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Chesto Berry"
+            },
+            {
+                "pokemon_name": "Loudred",
+                "rarity": "Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Chesto Berry"
+            }
+        ]
+    },
+    "Abandoned Ship": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Rare",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Route 108": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common, Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Uncommon, Rare",
+                "horde": true,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Route 107": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common, Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Uncommon, Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Route 132": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Horsea",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Dragon Scale"
+            },
+            {
+                "pokemon_name": "Seadra",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Dragon Scale"
+            },
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Route 133": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Horsea",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Dragon Scale"
+            },
+            {
+                "pokemon_name": "Seadra",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Dragon Scale"
+            },
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Route 134": {
+        "Water": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Wingull",
+                "rarity": "Very Common, Uncommon",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Uncommon, Rare",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Horsea",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Dragon Scale"
+            },
+            {
+                "pokemon_name": "Seadra",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Dragon Scale"
+            },
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Safari Zone": {
+        "Of Note": [],
+        "Grass": [
+            {
+                "pokemon_name": "Mareep",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Rocks": [],
+        "Water": [],
+        "Old Rod": [],
+        "Good Rod": [],
+        "Super Rod": [],
+        "Lure in Grass": [],
+        "Lure in Water": []
+    },
+    "S.S. Tidal": {},
+    "Battle Frontier": {
+        "Interaction": [
+            {
+                "pokemon_name": "Sudowoodo",
+                "rarity": "Only One",
+                "horde": false,
+                "time": "Water a Wailmer Pail on the odd looking tree to activate the fight against it",
+                "items": false
+            }
+        ],
+        "Water": [
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Mantine",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Pelipper",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Pretty Wing, Damp Rock, Lucky Egg (Small)"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Remoraid",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Remoraid",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Octillery",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    },
+    "Artisan Cave": {
+        "Cave": [
+            {
+                "pokemon_name": "Smeargle",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Cave": []
+    },
+    "Sealed Chamber": {
+        "Water": [
+            {
+                "pokemon_name": "Zubat",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Golbat",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Uncommon",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Tentacruel",
+                "rarity": "Very Common",
+                "horde": true,
+                "time": false,
+                "items": "Poison Barb"
+            }
+        ],
+        "Old Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Good Rod": [
+            {
+                "pokemon_name": "Tentacool",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Poison Barb"
+            },
+            {
+                "pokemon_name": "Magikarp",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Super Rod": [
+            {
+                "pokemon_name": "Horsea",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "Dragon Scale"
+            },
+            {
+                "pokemon_name": "Seadra",
+                "rarity": "Rare",
+                "horde": false,
+                "time": false,
+                "items": "Dragon Scale"
+            },
+            {
+                "pokemon_name": "Sharpedo",
+                "rarity": "Common",
+                "horde": false,
+                "time": false,
+                "items": "DeepSeaTooth"
+            },
+            {
+                "pokemon_name": "Wailmer",
+                "rarity": "Very Common",
+                "horde": false,
+                "time": false,
+                "items": false
+            }
+        ],
+        "Lure in Water": []
+    }
+}
